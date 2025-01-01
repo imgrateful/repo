@@ -1,25 +1,25 @@
 [
   {
     "title": "Huruf",
-    "imageUrl": "https://picsum.photos/seed/picsum/200/300",
+    "imageUrl": "https://picsum.photos/seed/picsum/300/200",
     "id": 101,
     "type": 1
   },
   {
     "title": "Angka",
-    "imageUrl": "https://picsum.photos/seed/picsum/200/300",
+    "imageUrl": "https://picsum.photos/seed/picsum/300/200",
     "id": 102,
     "type": 2
   },
   {
     "title": "Hewan",
-    "imageUrl": "https://picsum.photos/seed/picsum/200/300",
+    "imageUrl": "https://picsum.photos/seed/picsum/300/200",
     "id": 103,
     "type": 3
   },
   {
     "title": "Transportasi",
-    "imageUrl": "https://picsum.photos/seed/picsum/200/300",
+    "imageUrl": "https://picsum.photos/seed/picsum/300/200",
     "id": 104,
     "type": 4
   }
