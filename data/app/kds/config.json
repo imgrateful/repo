@@ -1,7 +1,7 @@
 [
   {
     "title": "Huruf",
-    "imageUrl": "https://picsum.photos/seed/picsum/300/200",
+    "imageUrl": "https://raw.githubusercontent.com/imgrateful/repo/refs/heads/v2/data/app/kds/assets/images/demo.jpeg",
     "id": 101,
     "type": 1
   },
@@ -13,7 +13,7 @@
   },
   {
     "title": "Hewan",
-    "imageUrl": "https://picsum.photos/seed/picsum/300/200",
+    "imageUrl": "https://raw.githubusercontent.com/imgrateful/repo/refs/heads/v2/data/app/kds/assets/images/demo.jpeg",
     "id": 103,
     "type": 3
   },
