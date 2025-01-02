@@ -1,27 +1,31 @@
-[
-  {
-    "title": "Huruf",
-    "imageUrl": "https://raw.githubusercontent.com/imgrateful/repo/refs/heads/v2/data/app/kds/assets/images/demo.jpeg",
-    "id": 101,
-    "type": 1
+{
+  "tos": {
+    "title": "Terms of Service",
+    "message": "Please read and accept the terms."
   },
-  {
-    "title": "Angka",
-    "imageUrl": "https://picsum.photos/seed/picsum/300/200",
-    "id": 102,
-    "type": 2
+  "ads": {
+    "rewardDuration": 30,
+    "maxDailyReward": 5,
+    "maxDailyRewardClick": 10
   },
-  {
-    "title": "Hewan",
-    "imageUrl": "https://raw.githubusercontent.com/imgrateful/repo/refs/heads/v2/data/app/kds/assets/images/demo.jpeg",
-    "id": 103,
-    "type": 3
+  "assets": {
+    "backgroundUrl": "https://example.com/background.png",
+    "titleUrl": "https://example.com/title.png"
   },
-  {
-    "title": "Transportasi",
-    "imageUrl": "https://picsum.photos/seed/picsum/300/200",
-    "id": 104,
-    "type": 4
+  "access": {
+    "premiumUser": ["user1", "user2"],
+    "blockedUser": ["user3"],
+    "countryTarget": ["US", "ID"]
+  },
+  "dialog": {
+    "update": {
+      "id": "update_123",
+      "forceUpdate": true
+    },
+    "event": {
+      "id": "event_456",
+      "title": "Special Event",
+      "imageUrl": "https://example.com/event.png"
+    }
   }
-]
-
+}
