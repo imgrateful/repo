@@ -27,5 +27,8 @@
       "title": "Special Event",
       "imageUrl": "https://example.com/event.png"
     }
+  },
+  "remove": {
+    "imageUrl": ["https://example.com/background.png", "https://example.com/background.png"]
   }
 }
