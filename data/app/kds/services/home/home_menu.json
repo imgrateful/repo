@@ -1,18 +1,18 @@
 [
   {
-    "title": "Letter",
+    "title": "homeTitleLetter",
     "imageUrl": "v2/data/app/kds/assets/images/demo.jpeg",
     "id": 1,
     "type": 101
   },
   {
-    "title": "Number",
+    "title": "homeTitleNumber",
     "imageUrl": "v2/data/app/kds/assets/images/demo.jpeg",
     "id": 2,
     "type": 102
   },
   {
-    "title": "Animal",
+    "title": "homeTitleAnimal",
     "imageUrl": "v2/data/app/kds/assets/images/demo.jpeg",
     "id": 3,
     "type": 103
