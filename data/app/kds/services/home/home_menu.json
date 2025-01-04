@@ -3,18 +3,48 @@
     "title": "homeTitleLetter",
     "imageUrl": "v2/data/app/kds/assets/images/demo.jpeg",
     "id": 1,
-    "type": 101
+    "type": 101,
+    "contentImageUrls": [
+      "v2/data/app/kds/assets/images/demo.jpeg",
+      "v2/data/app/kds/assets/images/demo.jpeg",
+      "v2/data/app/kds/assets/images/demo.jpeg"
+    ],
+    "contentImageRotations": [
+      0.0,
+      0.0,
+      0.0
+    ]
   },
   {
     "title": "homeTitleNumber",
     "imageUrl": "v2/data/app/kds/assets/images/demo.jpeg",
     "id": 2,
-    "type": 102
+    "type": 102,
+    "contentImageUrls": [
+      "v2/data/app/kds/assets/images/demo.jpeg",
+      "v2/data/app/kds/assets/images/demo.jpeg",
+      "v2/data/app/kds/assets/images/demo.jpeg"
+    ],
+    "contentImageRotations": [
+      10.0,
+      20.0,
+      30.0
+    ]
   },
   {
     "title": "homeTitleAnimal",
     "imageUrl": "v2/data/app/kds/assets/images/demo.jpeg",
     "id": 3,
-    "type": 103
+    "type": 103,
+    "contentImageUrls": [
+      "v2/data/app/kds/assets/images/demo.jpeg",
+      "v2/data/app/kds/assets/images/demo.jpeg",
+      "v2/data/app/kds/assets/images/demo.jpeg"
+    ],
+    "contentImageRotations": [
+      5.0,
+      15.0,
+      25.0
+    ]
   }
 ]
