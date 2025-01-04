@@ -1,0 +1,16 @@
+{
+  "en_US": {
+    "appTitle": "Learning",
+    "homeTitleLetter": "Letter",
+    "homeTitleNumber": "Number",
+    "homeTitleAnimal": "Animal",
+    "changeLanguage": "Change Language"
+  },
+  "id_ID": {
+    "appTitle": "Belajar",
+    "homeTitleLetter": "Huruf",
+    "homeTitleNumber": "Angka",
+    "homeTitleAnimal": "Hewan",
+    "changeLanguage": "Ubah Bahasa"
+  }
+}
