@@ -1,34 +1,70 @@
 {
-  "tos": {
-    "title": "Terms of Service",
-    "message": "Please read and accept the terms."
-  },
-  "ads": {
-    "rewardDuration": 1,
-    "maxDailyReward": 5,
-    "maxDailyRewardClick": 10
-  },
-  "assets": {
-    "backgroundUrl": "https://example.com/background.png",
-    "titleUrl": "https://example.com/title.png"
-  },
-  "access": {
-    "premiumUser": ["user1", "user2"],
-    "blockedUser": ["user3"],
-    "countryTarget": ["US", "ID"]
-  },
-  "dialog": {
-    "update": {
-      "id": "update_123",
-      "forceUpdate": true
-    },
-    "event": {
-      "id": "event_456",
-      "title": "Special Event",
-      "imageUrl": "https://example.com/event.png"
-    }
-  },
-  "remove": {
-    "imageUrl": ["https://example.com/background.png", "https://example.com/background.png"]
-  }
+   "tos":{
+      "title":"Terms of Service",
+      "message":"Please read and accept the terms."
+   },
+   "ads":{
+      "enableAdBanner":true,
+      "enableAdInterstitial":true,
+      "adBannerUnitId":"ca-app-pub-3940256099942544/6300978111",
+      "adInterstitialUnitId":"ca-app-pub-3940256099942544/1033173712",
+      "adRewardedUnitId":"ca-app-pub-3940256099942544/5224354917",
+      "adRewardedInterstitialUnitId":"ca-app-pub-3940256099942544/5354046379",
+      "adDistanceBetween":10,
+      "rewardDuration":1,
+      "maxDailyReward":5,
+      "maxDailyRewardClick":10
+   },
+   "assets":{
+      "backgroundUrl":"https://example.com/background.png",
+      "titleUrl":"https://example.com/title.png",
+      "backgroundSoundUrl":"https://example.com/title.mp3"
+   },
+   "access":{
+      "premiumUser":[
+         "user1",
+         "user2"
+      ],
+      "blockedUser":[
+         "user3"
+      ],
+      "countryTarget":[
+         "US",
+         "ID"
+      ]
+   },
+   "language":[
+      {
+         "name":"English",
+         "nameLocale":"EN-Locale",
+         "code":"en_US"
+      },
+      {
+         "name":"Indonesia",
+         "nameLocale":"ID-Locale",
+         "code":"id_ID"
+      },
+      {
+         "name":"Indonesia (Jawa)",
+         "nameLocale":"JV_ID-Locale",
+         "code":"jv_ID"
+      }
+   ],
+   "dialog":{
+      "update":{
+         "version":"1.0.1",
+         "forceUpdate":true
+      },
+      "event":{
+         "id":"event_456",
+         "title":"Special Event",
+         "imageUrl":"https://example.com/event.png"
+      }
+   },
+   "remove":{
+      "imageUrl":[
+         "https://example.com/background.png",
+         "https://example.com/background.png"
+      ]
+   }
 }
