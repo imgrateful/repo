@@ -4,7 +4,7 @@
       "message":"Please read and accept the terms."
    },
    "ads":{
-      "enableAdBanner":false,
+      "enableAdBanner":true,
       "enableAdInterstitial":true,
       "adBannerUnitId":"ca-app-pub-3940256099942544/6300978111",
       "adInterstitialUnitId":"ca-app-pub-3940256099942544/1033173712",
