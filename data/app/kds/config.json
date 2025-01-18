@@ -1,4 +1,5 @@
 {
+   "blurBackground":5,
    "tos":{
       "enableUrl":false,
       "url":"https://tos.com",
