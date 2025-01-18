@@ -1,6 +1,14 @@
 {
    "tos":{
+      "enableUrl":false,
+      "url":"https://tos.com",
       "title":"Terms of Service",
+      "message":"Please read and accept the terms."
+   },
+   "privacy":{
+      "enableUrl":false,
+      "url":"https://privacy.com",
+      "title":"Privacy and Policy",
       "message":"Please read and accept the terms."
    },
    "ads":{
@@ -36,26 +44,33 @@
    "language":[
       {
          "name":"English",
-         "nameLocale":"EN-Locale",
+         "nameLocale":"EN_1",
          "code":"en_US"
       },
       {
          "name":"Indonesia",
-         "nameLocale":"ID-Locale",
+         "nameLocale":"ID_1",
          "code":"id_ID"
       },
       {
          "name":"Indonesia (Jawa)",
-         "nameLocale":"JV_ID-Locale",
+         "nameLocale":"JV-ID_1",
          "code":"jv_ID"
       }
    ],
    "dialog":{
+      "maintenance":{
+         "accessible":true,
+         "enable":false
+      },
       "update":{
          "version":"1.0.0",
-         "forceUpdate":true
+         "versionCode":"1",
+         "forceUpdate":true,
+         "enable":true
       },
       "event":{
+         "enable":true,
          "id":"event_456",
          "title":"Special Event",
          "imageUrl":"https://example.com/event.png"
