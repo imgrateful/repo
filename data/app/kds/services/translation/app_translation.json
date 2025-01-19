@@ -4,6 +4,7 @@
     "homeTitleLetter": "Letter",
     "homeTitleNumber": "Number",
     "homeTitleAnimal": "Animal",
+    "homeLoading": "Please Wait",
     "changeLanguage": "Change Language"
   },
   "id_ID": {
@@ -11,6 +12,7 @@
     "homeTitleLetter": "Huruf",
     "homeTitleNumber": "Angka",
     "homeTitleAnimal": "Hewan",
+    "homeLoading": "Tunggu Sebentar",
     "changeLanguage": "Ubah Bahasa"
   }
 }
