@@ -62,7 +62,7 @@
    "dialog":{
       "maintenance":{
          "accessible":false,
-         "enable":true
+         "enable":false
       },
       "update":{
          "version":"1.0.0",
