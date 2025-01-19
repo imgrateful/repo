@@ -1,7 +1,7 @@
 [
   {
     "title": "homeTitleLetter",
-    "imageUrl": "v2/data/app/kds/assets/images/demo.jpeg",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1,
     "type": 101,
     "contentImageUrls": [
@@ -17,7 +17,7 @@
   },
   {
     "title": "homeTitleNumber",
-    "imageUrl": "v2/data/app/kds/assets/images/demo.jpeg",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 2,
     "type": 102,
     "contentImageUrls": [
@@ -33,7 +33,7 @@
   },
   {
     "title": "homeTitleAnimal",
-    "imageUrl": "v2/data/app/kds/assets/images/demo.jpeg",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 3,
     "type": 103,
     "contentImageUrls": [
