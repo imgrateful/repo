@@ -25,12 +25,12 @@
    },
    "assets":{
       "background":{
-         "url":"https://example.com/background.png",
+         "url":"data/app/kds/assets/images/background.jpg",
          "blur":10.5
       },
       "title":{
-         "url":"https://example.com/title.png",
-         "width":200,
+         "url":"data/app/kds/assets/lottie/dummy_welcome.json",
+         "width":100,
          "height":95,
          "animate":true,
          "reverse":true,
