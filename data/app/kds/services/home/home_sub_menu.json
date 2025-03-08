@@ -12,7 +12,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1002,
     "subId": "LN",
-    "type": 2,
+    "type": 1001,
     "isShow": true
   },
   {
@@ -20,7 +20,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1003,
     "subId": "LN",
-    "type": 2,
+    "type": 1001,
     "isShow": true
   },
   {
@@ -28,7 +28,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1004,
     "subId": "LN",
-    "type": 2,
+    "type": 1001,
     "isShow": true
   },
   {
@@ -44,7 +44,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1006,
     "subId": "LN",
-    "type": 2,
+    "type": 1005,
     "isShow": true
   },
   {
@@ -52,7 +52,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1007,
     "subId": "LN",
-    "type": 2,
+    "type": 1005,
     "isShow": true
   },
   {
@@ -60,7 +60,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1008,
     "subId": "LN",
-    "type": 2,
+    "type": 1005,
     "isShow": true
   },
   {
@@ -68,7 +68,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1009,
     "subId": "LN",
-    "type": 2,
+    "type": 1005,
     "isShow": true
   },
   {
