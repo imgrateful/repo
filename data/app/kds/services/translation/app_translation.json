@@ -1,17 +1,31 @@
 {
   "en_US": {
     "appTitle": "Learning",
-    "homeTitleLetter": "Letter",
-    "homeTitleNumber": "Number",
-    "homeTitleAnimal": "Animal",
+    "home_TitleLettersNumbers": "Letters & Numbers",
+    "home_TitleReadingWriting": "Reading & Writing",
+    "home_TitleColorsShapes": "Colors & Shapes",
+    "home_TitleAnimalsPlants": "Animals & Plants",
+    "home_TitleEverydayObjects": "Everyday Objects",
+    "home_TitleProfessionsActivities": "Professions & Activities",
+    "home_TitleWeatherNature": "Weather & Nature",
+    "home_TitleTransportation": "Transportation",
+    "home_TitleMusicInstruments": "Music & Musical Instruments",
+    "home_TitleFoodDrinks": "Food & Drinks",
     "homeLoading": "Please Wait",
     "changeLanguage": "Change Language"
   },
   "id_ID": {
     "appTitle": "Belajar",
-    "homeTitleLetter": "Huruf",
-    "homeTitleNumber": "Angka",
-    "homeTitleAnimal": "Hewan",
+    "home_TitleLettersNumbers": "Huruf & Angka",
+    "home_TitleReadingWriting": "Membaca & Menulis",
+    "home_TitleColorsShapes": "Warna & Bentuk",
+    "home_TitleAnimalsPlants": "Hewan & Tumbuhan",
+    "home_TitleEverydayObjects": "Benda Sehari-hari",
+    "home_TitleProfessionsActivities": "Profesi & Aktivitas",
+    "home_TitleWeatherNature": "Cuaca & Alam",
+    "home_TitleTransportation": "Transportasi",
+    "home_TitleMusicInstruments": "Musik & Alat Musik",
+    "home_TitleFoodDrinks": "Makanan & Minuman",
     "homeLoading": "Tunggu Sebentar",
     "changeLanguage": "Ubah Bahasa"
   }
