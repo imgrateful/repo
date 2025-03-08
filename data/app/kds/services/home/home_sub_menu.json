@@ -35,7 +35,7 @@
     "title": "subHome_TitleNumbers",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1005,
-    "subId": "RW",
+    "subId": "LN",
     "type": 1,
     "isShow": true
   },
@@ -43,7 +43,7 @@
     "title": "subHome_TitleRecognizingNumbers",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1006,
-    "subId": "RW",
+    "subId": "LN",
     "type": 2,
     "isShow": true
   },
@@ -51,7 +51,7 @@
     "title": "subHome_TitleWritingNumbers",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1007,
-    "subId": "RW",
+    "subId": "LN",
     "type": 2,
     "isShow": true
   },
@@ -59,7 +59,7 @@
     "title": "subHome_TitleCountingObjects",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1008,
-    "subId": "RW",
+    "subId": "LN",
     "type": 2,
     "isShow": true
   },
@@ -67,6 +67,86 @@
     "title": "subHome_TitleOddEvenNumbers",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1009,
+    "subId": "LN",
+    "type": 2,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleReading",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1030,
+    "subId": "RW",
+    "type": 1,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleRecognizingSyllables",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1031,
+    "subId": "RW",
+    "type": 2,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleReadingSimpleWords",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1032,
+    "subId": "RW",
+    "type": 2,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleReadingSentences",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1033,
+    "subId": "RW",
+    "type": 2,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleReadingStories",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1034,
+    "subId": "RW",
+    "type": 2,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleWriting",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1035,
+    "subId": "RW",
+    "type": 1,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleTracingLettersNumbers",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1036,
+    "subId": "RW",
+    "type": 2,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleWritingSyllables",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1037,
+    "subId": "RW",
+    "type": 2,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleWritingSimpleWords",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1038,
+    "subId": "RW",
+    "type": 2,
+    "isShow": true
+  },
+  {
+    "title": "subHome_TitleWritingSentences",
+    "imageUrl": "data/app/kds/assets/images/demo.jpeg",
+    "id": 1039,
     "subId": "RW",
     "type": 2,
     "isShow": true
