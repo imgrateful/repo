@@ -4,36 +4,28 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1001,
     "subId": "LN",
-    "type": 1,
-    "contentImageUrls": [],
-    "contentImageRotations": []
+    "type": 1
   },
   {
     "title": "subHome_TitleRecognizingLetters",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1002,
     "subId": "LN",
-    "type": 1,
-    "contentImageUrls": [],
-    "contentImageRotations": []
+    "type": 1
   },
   {
     "title": "subHome_TitleWritingLetters",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1003,
     "subId": "LN",
-    "type": 1,
-    "contentImageUrls": [],
-    "contentImageRotations": []
+    "type": 1
   },
   {
     "title": "subHome_TitleUpperLowercase",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1004,
     "subId": "LN",
-    "type": 1,
-    "contentImageUrls": [],
-    "contentImageRotations": []
+    "type": 1
   },
 
 
@@ -42,44 +34,34 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1005,
     "subId": "RW",
-    "type": 1,
-    "contentImageUrls": [],
-    "contentImageRotations": []
+    "type": 1
   },
   {
     "title": "subHome_TitleRecognizingNumbers",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1006,
     "subId": "RW",
-    "type": 1,
-    "contentImageUrls": [],
-    "contentImageRotations": []
+    "type": 1
   },
   {
     "title": "subHome_TitleWritingNumbers",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1007,
     "subId": "RW",
-    "type": 1,
-    "contentImageUrls": [],
-    "contentImageRotations": []
+    "type": 1
   },
   {
     "title": "subHome_TitleCountingObjects",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1008,
     "subId": "RW",
-    "type": 1,
-    "contentImageUrls": [],
-    "contentImageRotations": []
+    "type": 1
   },
   {
     "title": "subHome_TitleOddEvenNumbers",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1009,
     "subId": "RW",
-    "type": 1,
-    "contentImageUrls": [],
-    "contentImageRotations": []
+    "type": 1
   }
 ]
