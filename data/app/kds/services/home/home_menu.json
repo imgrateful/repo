@@ -20,7 +20,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 3,
     "subId": "CS",
-    "type": 103,
+    "type": 1,
     "isShow": true
   },
   {
@@ -28,7 +28,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 4,
     "subId": "AP",
-    "type": 103,
+    "type": 1,
     "isShow": true
   },
   {
@@ -36,7 +36,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 5,
     "subId": "EO",
-    "type": 103,
+    "type": 1,
     "isShow": true
   },
   {
@@ -44,7 +44,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 6,
     "subId": "PA",
-    "type": 103,
+    "type": 1,
     "isShow": true
   },
   {
@@ -52,7 +52,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 7,
     "subId": "WN",
-    "type": 103,
+    "type": 1,
     "isShow": true
   },
   {
@@ -60,7 +60,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 8,
     "subId": "TR",
-    "type": 103,
+    "type": 1,
     "isShow": true
   },
   {
@@ -68,7 +68,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 9,
     "subId": "MI",
-    "type": 103,
+    "type": 1,
     "isShow": true
   },
   {
@@ -76,7 +76,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 10,
     "subId": "FD",
-    "type": 103,
+    "type": 1,
     "isShow": true
   }
 ]
