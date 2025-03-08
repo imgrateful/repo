@@ -11,12 +11,12 @@
     "home_TitleTransportation": "Transportation",
     "home_TitleMusicInstruments": "Music & Musical Instruments",
     "home_TitleFoodDrinks": "Food & Drinks",
-    
+
     "subHome_TitleLettersAZ": "Letters (A-Z)",
     "subHome_TitleRecognizingLetters": "Recognizing Letters",
     "subHome_TitleWritingLetters": "Writing Letters",
     "subHome_TitleUpperLowercase": "Uppercase & Lowercase",
-    
+
     "subHome_TitleNumbers": "Numbers (1-20)",
     "subHome_TitleRecognizingNumbers": "Recognizing Numbers",
     "subHome_TitleWritingNumbers": "Writing Numbers",
@@ -35,6 +35,34 @@
     "subHome_TitleWritingSimpleWords": "Writing Simple Words",
     "subHome_TitleWritingSentences": "Writing Short Sentences",
 
+    "subHome_TitleColors": "Colors",
+    "subHome_TitleShapes": "Shapes",
+    
+    "subHome_TitleAnimals": "Animals",
+    "subHome_TitlePlants": "Plants",
+    
+    "subHome_TitleHomeObjects": "Home Objects",
+    "subHome_TitleSchoolObjects": "School Objects",
+    "subHome_TitleOutdoorObjects": "Outdoor Objects",
+    
+    "subHome_TitleProfessions": "Professions",
+    "subHome_TitleActivities": "Activities",
+    
+    "subHome_TitleWeather": "Weather",
+    "subHome_TitleNature": "Nature",
+    
+    "subHome_TitleLandTransportation": "Land Transportation",
+    "subHome_TitleAirTransportation": "Air Transportation",
+    "subHome_TitleWaterTransportation": "Water Transportation",
+    
+    "subHome_TitleMusicalInstruments": "Musical Instruments",
+    "subHome_TitleGenres": "Music Genres",
+    
+    "subHome_TitleFruits": "Fruits",
+    "subHome_TitleVegetables": "Vegetables",
+    "subHome_TitleMeals": "Meals",
+    "subHome_TitleDrinks": "Drinks",
+    
     "homeLoading": "Please Wait",
     "changeLanguage": "Change Language"
   },
@@ -74,6 +102,34 @@
     "subHome_TitleWritingSimpleWords": "Menulis Kata Sederhana",
     "subHome_TitleWritingSentences": "Menulis Kalimat Pendek",
 
+    "subHome_TitleColors": "Warna",
+    "subHome_TitleShapes": "Bentuk",
+    
+    "subHome_TitleAnimals": "Hewan",
+    "subHome_TitlePlants": "Tumbuhan",
+    
+    "subHome_TitleHomeObjects": "Benda di Rumah",
+    "subHome_TitleSchoolObjects": "Benda di Sekolah",
+    "subHome_TitleOutdoorObjects": "Benda di Luar Ruangan",
+    
+    "subHome_TitleProfessions": "Profesi",
+    "subHome_TitleActivities": "Aktivitas",
+    
+    "subHome_TitleWeather": "Cuaca",
+    "subHome_TitleNature": "Alam",
+    
+    "subHome_TitleLandTransportation": "Transportasi Darat",
+    "subHome_TitleAirTransportation": "Transportasi Udara",
+    "subHome_TitleWaterTransportation": "Transportasi Air",
+    
+    "subHome_TitleMusicalInstruments": "Alat Musik",
+    "subHome_TitleGenres": "Genre Musik",
+    
+    "subHome_TitleFruits": "Buah-buahan",
+    "subHome_TitleVegetables": "Sayur-sayuran",
+    "subHome_TitleMeals": "Makanan",
+    "subHome_TitleDrinks": "Minuman",
+    
     "homeLoading": "Tunggu Sebentar",
     "changeLanguage": "Ubah Bahasa"
   }
