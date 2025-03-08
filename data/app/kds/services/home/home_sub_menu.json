@@ -74,7 +74,7 @@
   {
     "title": "subHome_TitleReading",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1030,
+    "id": 1010,
     "subId": "RW",
     "type": 1,
     "isShow": true
@@ -82,7 +82,7 @@
   {
     "title": "subHome_TitleRecognizingSyllables",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1031,
+    "id": 1011,
     "subId": "RW",
     "type": 2,
     "isShow": true
@@ -90,7 +90,7 @@
   {
     "title": "subHome_TitleReadingSimpleWords",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1032,
+    "id": 1012,
     "subId": "RW",
     "type": 2,
     "isShow": true
@@ -98,7 +98,7 @@
   {
     "title": "subHome_TitleReadingSentences",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1033,
+    "id": 1013,
     "subId": "RW",
     "type": 2,
     "isShow": true
@@ -106,7 +106,7 @@
   {
     "title": "subHome_TitleReadingStories",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1034,
+    "id": 1014,
     "subId": "RW",
     "type": 2,
     "isShow": true
@@ -114,7 +114,7 @@
   {
     "title": "subHome_TitleWriting",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1035,
+    "id": 1015,
     "subId": "RW",
     "type": 1,
     "isShow": true
@@ -122,7 +122,7 @@
   {
     "title": "subHome_TitleTracingLettersNumbers",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1036,
+    "id": 1016,
     "subId": "RW",
     "type": 2,
     "isShow": true
@@ -130,7 +130,7 @@
   {
     "title": "subHome_TitleWritingSyllables",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1037,
+    "id": 1017,
     "subId": "RW",
     "type": 2,
     "isShow": true
@@ -138,7 +138,7 @@
   {
     "title": "subHome_TitleWritingSimpleWords",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1038,
+    "id": 1018,
     "subId": "RW",
     "type": 2,
     "isShow": true
@@ -146,7 +146,7 @@
   {
     "title": "subHome_TitleWritingSentences",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1039,
+    "id": 1019,
     "subId": "RW",
     "type": 2,
     "isShow": true
@@ -154,7 +154,7 @@
   {
     "title": "subHome_TitleColors",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1010,
+    "id": 1020,
     "subId": "CS",
     "type": 1,
     "isShow": true
@@ -162,7 +162,7 @@
   {
     "title": "subHome_TitleShapes",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1011,
+    "id": 1021,
     "subId": "CS",
     "type": 1,
     "isShow": true
@@ -170,7 +170,7 @@
   {
     "title": "subHome_TitleAnimals",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1012,
+    "id": 1022,
     "subId": "AP",
     "type": 1,
     "isShow": true
@@ -178,7 +178,7 @@
   {
     "title": "subHome_TitlePlants",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1013,
+    "id": 1023,
     "subId": "AP",
     "type": 1,
     "isShow": true
@@ -186,7 +186,7 @@
   {
     "title": "subHome_TitleHomeObjects",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1014,
+    "id": 1024,
     "subId": "EO",
     "type": 1,
     "isShow": true
@@ -194,7 +194,7 @@
   {
     "title": "subHome_TitleSchoolObjects",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1015,
+    "id": 1025,
     "subId": "EO",
     "type": 1,
     "isShow": true
@@ -202,7 +202,7 @@
   {
     "title": "subHome_TitleOutdoorObjects",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1016,
+    "id": 1026,
     "subId": "EO",
     "type": 1,
     "isShow": true
@@ -210,7 +210,7 @@
   {
     "title": "subHome_TitleProfessions",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1017,
+    "id": 1027,
     "subId": "PA",
     "type": 1,
     "isShow": true
@@ -218,7 +218,7 @@
   {
     "title": "subHome_TitleActivities",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1018,
+    "id": 1028,
     "subId": "PA",
     "type": 1,
     "isShow": true
@@ -226,7 +226,7 @@
   {
     "title": "subHome_TitleWeather",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1019,
+    "id": 1029,
     "subId": "WN",
     "type": 1,
     "isShow": true
@@ -234,7 +234,7 @@
   {
     "title": "subHome_TitleNature",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1020,
+    "id": 1030,
     "subId": "WN",
     "type": 1,
     "isShow": true
@@ -242,7 +242,7 @@
   {
     "title": "subHome_TitleLandTransportation",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1021,
+    "id": 1031,
     "subId": "TR",
     "type": 1,
     "isShow": true
@@ -250,7 +250,7 @@
   {
     "title": "subHome_TitleAirTransportation",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1022,
+    "id": 1032,
     "subId": "TR",
     "type": 1,
     "isShow": true
@@ -258,7 +258,7 @@
   {
     "title": "subHome_TitleWaterTransportation",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1023,
+    "id": 1033,
     "subId": "TR",
     "type": 1,
     "isShow": true
@@ -266,7 +266,7 @@
   {
     "title": "subHome_TitleMusicalInstruments",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1024,
+    "id": 1034,
     "subId": "MI",
     "type": 1,
     "isShow": true
@@ -274,7 +274,7 @@
   {
     "title": "subHome_TitleGenres",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1025,
+    "id": 1035,
     "subId": "MI",
     "type": 1,
     "isShow": true
@@ -282,7 +282,7 @@
   {
     "title": "subHome_TitleFruits",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1026,
+    "id": 1036,
     "subId": "FD",
     "type": 1,
     "isShow": true
@@ -290,7 +290,7 @@
   {
     "title": "subHome_TitleVegetables",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1027,
+    "id": 1037,
     "subId": "FD",
     "type": 1,
     "isShow": true
@@ -298,7 +298,7 @@
   {
     "title": "subHome_TitleMeals",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1028,
+    "id": 1038,
     "subId": "FD",
     "type": 1,
     "isShow": true
@@ -306,7 +306,7 @@
   {
     "title": "subHome_TitleDrinks",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 1029,
+    "id": 1039,
     "subId": "FD",
     "type": 1,
     "isShow": true
