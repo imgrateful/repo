@@ -3,160 +3,130 @@
     "title": "home_TitleLettersNumbers",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1,
-    "type": 101,
+    "subId": "LN",
+    "type": 1,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      0.0,
-      0.0,
-      0.0
-    ]
+    "contentImageRotations": [0.0, 0.0, 0.0]
   },
   {
     "title": "home_TitleReadingWriting",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 2,
-    "type": 102,
+    "subId": "RW",
+    "type": 1,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      10.0,
-      20.0,
-      30.0
-    ]
+    "contentImageRotations": [10.0, 20.0, 30.0]
   },
   {
     "title": "home_TitleColorsShapes",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 3,
+    "subId": "CS",
     "type": 103,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      5.0,
-      15.0,
-      25.0
-    ]
+    "contentImageRotations": [5.0, 15.0, 25.0]
   },
   {
     "title": "home_TitleAnimalsPlants",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 4,
+    "subId": "AP",
     "type": 103,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      5.0,
-      15.0,
-      25.0
-    ]
+    "contentImageRotations": [5.0, 15.0, 25.0]
   },
   {
     "title": "home_TitleEverydayObjects",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 5,
+    "subId": "EO",
     "type": 103,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      5.0,
-      15.0,
-      25.0
-    ]
+    "contentImageRotations": [5.0, 15.0, 25.0]
   },
   {
     "title": "home_TitleProfessionsActivities",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 6,
+    "subId": "PA",
     "type": 103,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      5.0,
-      15.0,
-      25.0
-    ]
+    "contentImageRotations": [5.0, 15.0, 25.0]
   },
   {
     "title": "home_TitleWeatherNature",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 7,
+    "subId": "WN",
     "type": 103,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      5.0,
-      15.0,
-      25.0
-    ]
+    "contentImageRotations": [5.0, 15.0, 25.0]
   },
   {
     "title": "home_TitleTransportation",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 8,
+    "subId": "TR",
     "type": 103,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      5.0,
-      15.0,
-      25.0
-    ]
+    "contentImageRotations": [5.0, 15.0, 25.0]
   },
   {
     "title": "home_TitleMusicInstruments",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 9,
+    "subId": "MI",
     "type": 103,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      5.0,
-      15.0,
-      25.0
-    ]
+    "contentImageRotations": [5.0, 15.0, 25.0]
   },
   {
     "title": "home_TitleFoodDrinks",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 10,
+    "subId": "FD",
     "type": 103,
     "contentImageUrls": [
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg",
       "v2/data/app/kds/assets/images/demo.jpeg"
     ],
-    "contentImageRotations": [
-      5.0,
-      15.0,
-      25.0
-    ]
+    "contentImageRotations": [5.0, 15.0, 25.0]
   }
 ]

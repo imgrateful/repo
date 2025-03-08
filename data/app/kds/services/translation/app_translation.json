@@ -11,6 +11,30 @@
     "home_TitleTransportation": "Transportation",
     "home_TitleMusicInstruments": "Music & Musical Instruments",
     "home_TitleFoodDrinks": "Food & Drinks",
+    
+    "subHome_TitleLettersAZ": "Letters (A-Z)",
+    "subHome_TitleRecognizingLetters": "Recognizing Letters",
+    "subHome_TitleWritingLetters": "Writing Letters",
+    "subHome_TitleUpperLowercase": "Uppercase & Lowercase",
+    
+    "subHome_TitleNumbers": "Numbers (1-20)",
+    "subHome_TitleRecognizingNumbers": "Recognizing Numbers",
+    "subHome_TitleWritingNumbers": "Writing Numbers",
+    "subHome_TitleCountingObjects": "Counting Objects",
+    "subHome_TitleOddEvenNumbers": "Odd & Even Numbers",
+
+    "subHome_TitleReading": "Reading",
+    "subHome_TitleRecognizingSyllables": "Recognizing Syllables",
+    "subHome_TitleReadingSimpleWords": "Reading Simple Words",
+    "subHome_TitleReadingSentences": "Reading Short Sentences",
+    "subHome_TitleReadingStories": "Reading Short Stories",
+
+    "subHome_TitleWriting": "Writing",
+    "subHome_TitleTracingLettersNumbers": "Tracing Letters & Numbers",
+    "subHome_TitleWritingSyllables": "Writing Syllables",
+    "subHome_TitleWritingSimpleWords": "Writing Simple Words",
+    "subHome_TitleWritingSentences": "Writing Short Sentences",
+
     "homeLoading": "Please Wait",
     "changeLanguage": "Change Language"
   },
@@ -26,6 +50,30 @@
     "home_TitleTransportation": "Transportasi",
     "home_TitleMusicInstruments": "Musik & Alat Musik",
     "home_TitleFoodDrinks": "Makanan & Minuman",
+
+    "subHome_TitleLettersAZ": "Huruf (A-Z)",
+    "subHome_TitleRecognizingLetters": "Mengenal Huruf",
+    "subHome_TitleWritingLetters": "Menulis Huruf",
+    "subHome_TitleUpperLowercase": "Huruf Besar & Kecil",
+
+    "subHome_TitleNumbers": "Angka (1-20)",
+    "subHome_TitleRecognizingNumbers": "Mengenal Angka",
+    "subHome_TitleWritingNumbers": "Menulis Angka",
+    "subHome_TitleCountingObjects": "Menghitung Benda",
+    "subHome_TitleOddEvenNumbers": "Angka Ganjil & Genap",
+
+    "subHome_TitleReading": "Membaca",
+    "subHome_TitleRecognizingSyllables": "Mengenal Suku Kata",
+    "subHome_TitleReadingSimpleWords": "Membaca Kata Sederhana",
+    "subHome_TitleReadingSentences": "Membaca Kalimat Pendek",
+    "subHome_TitleReadingStories": "Membaca Cerita Pendek",
+
+    "subHome_TitleWriting": "Menulis",
+    "subHome_TitleTracingLettersNumbers": "Menulis Huruf & Angka",
+    "subHome_TitleWritingSyllables": "Menulis Suku Kata",
+    "subHome_TitleWritingSimpleWords": "Menulis Kata Sederhana",
+    "subHome_TitleWritingSentences": "Menulis Kalimat Pendek",
+
     "homeLoading": "Tunggu Sebentar",
     "changeLanguage": "Ubah Bahasa"
   }
