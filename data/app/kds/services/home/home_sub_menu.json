@@ -172,7 +172,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1022,
     "subId": "AP",
-    "type": 1,
+    "type": 3,
     "isShow": true
   },
   {
@@ -180,7 +180,7 @@
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
     "id": 1023,
     "subId": "AP",
-    "type": 1,
+    "type": 3,
     "isShow": true
   },
   {
