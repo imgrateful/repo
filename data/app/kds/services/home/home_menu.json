@@ -18,7 +18,7 @@
   {
     "title": "home_TitleColorsShapes",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 3,
+    "id": 2,
     "subId": "CS",
     "type": 1,
     "isShow": true
@@ -26,7 +26,7 @@
   {
     "title": "home_TitleAnimalsPlants",
     "imageUrl": "data/app/kds/assets/images/demo.jpeg",
-    "id": 4,
+    "id": 3,
     "subId": "AP",
     "type": 1,
     "isShow": true
