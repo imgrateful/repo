@@ -5,12 +5,7 @@
     "id": 1,
     "subId": "LN",
     "type": 1,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [0.0, 0.0, 0.0]
+    "isShow": true
   },
   {
     "title": "home_TitleReadingWriting",
@@ -18,12 +13,7 @@
     "id": 2,
     "subId": "RW",
     "type": 1,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [10.0, 20.0, 30.0]
+    "isShow": true
   },
   {
     "title": "home_TitleColorsShapes",
@@ -31,12 +21,7 @@
     "id": 3,
     "subId": "CS",
     "type": 103,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [5.0, 15.0, 25.0]
+    "isShow": true
   },
   {
     "title": "home_TitleAnimalsPlants",
@@ -44,12 +29,7 @@
     "id": 4,
     "subId": "AP",
     "type": 103,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [5.0, 15.0, 25.0]
+    "isShow": true
   },
   {
     "title": "home_TitleEverydayObjects",
@@ -57,12 +37,7 @@
     "id": 5,
     "subId": "EO",
     "type": 103,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [5.0, 15.0, 25.0]
+    "isShow": true
   },
   {
     "title": "home_TitleProfessionsActivities",
@@ -70,12 +45,7 @@
     "id": 6,
     "subId": "PA",
     "type": 103,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [5.0, 15.0, 25.0]
+    "isShow": true
   },
   {
     "title": "home_TitleWeatherNature",
@@ -83,12 +53,7 @@
     "id": 7,
     "subId": "WN",
     "type": 103,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [5.0, 15.0, 25.0]
+    "isShow": true
   },
   {
     "title": "home_TitleTransportation",
@@ -96,12 +61,7 @@
     "id": 8,
     "subId": "TR",
     "type": 103,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [5.0, 15.0, 25.0]
+    "isShow": true
   },
   {
     "title": "home_TitleMusicInstruments",
@@ -109,12 +69,7 @@
     "id": 9,
     "subId": "MI",
     "type": 103,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [5.0, 15.0, 25.0]
+    "isShow": true
   },
   {
     "title": "home_TitleFoodDrinks",
@@ -122,11 +77,6 @@
     "id": 10,
     "subId": "FD",
     "type": 103,
-    "contentImageUrls": [
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg",
-      "v2/data/app/kds/assets/images/demo.jpeg"
-    ],
-    "contentImageRotations": [5.0, 15.0, 25.0]
+    "isShow": true
   }
 ]
