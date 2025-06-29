@@ -1,0 +1,36 @@
+{
+   "version":{
+      "latestName":"v1.0.1",
+      "latestNumber":"100",
+      "forceUpdate":true
+   },
+   "tos":{
+      "url":"https://sites.google.com/view/wss-tos"
+   },
+   "privacy":{
+      "url":"https://sites.google.com/view/wss-privacy"
+   },
+   "ads":{
+      "enableAdBanner":true,
+      "enableAdInterstitial":true,
+      "adBannerUnitId":"ca-app-pub-3940256099942544/6300978111",
+      "adInterstitialUnitId":"ca-app-pub-3940256099942544/1033173712",
+      "adRewardedUnitId":"ca-app-pub-3940256099942544/5224354917",
+      "adRewardedInterstitialUnitId":"ca-app-pub-3940256099942544/5354046379",
+      "adDistanceBetween":10
+   },
+   "assets":{
+      "icon":{
+         "url":"data/app/wss/assets/logo.jpg",
+      },
+   },
+   "access":{
+    
+      "premiumUser":[
+         "user-aab"
+      ],
+      "blockedUser":[
+         "user-abc"
+      ]
+   }
+}
