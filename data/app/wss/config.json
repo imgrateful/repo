@@ -2,7 +2,7 @@
    "version":{
       "latestName":"v1.0.1",
       "latestCode":100,
-      "forceUpdate":true
+      "forceUpdate":false
    },
    "about":{
       "message_en":" ",
