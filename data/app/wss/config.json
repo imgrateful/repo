@@ -28,7 +28,8 @@
          "user-aab"
       ],
       "blockedUser":[
-         "user-abc"
+         "user-abc",
+         "af28dc0e-3784-4fba-b057-3bdb74f7777b"
       ]
    }
 }
