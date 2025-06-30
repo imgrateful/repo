@@ -25,11 +25,10 @@
    },
    "access":{
       "premiumUser":[
-         "user-aab"
+         "af28dc0e-3784-4fba-b057-3bdb74f7777b-test"
       ],
       "blockedUser":[
-         "user-abc",
-         "af28dc0e-3784-4fba-b057-3bdb74f7777b"
+         "af28dc0e-3784-4fba-b057-3bdb74f7777b-test"
       ]
    }
 }
