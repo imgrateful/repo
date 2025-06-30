@@ -5,8 +5,8 @@
       "forceUpdate":true
    },
    "about":{
-      "message_en":"",
-      "message_id":""
+      "message_en":" ",
+      "message_id":" "
    },
    "tos":{
       "url":"https://sites.google.com/view/wss-tos"
