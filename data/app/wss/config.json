@@ -5,7 +5,8 @@
       "forceUpdate":true
    },
    "about":{
-      "message":"Hallow apa kabar kawan"
+      "message_en":"Hallo, how are you",
+      "message_id":"Halo, apa kabar kawan"
    },
    "tos":{
       "url":"https://sites.google.com/view/wss-tos"
