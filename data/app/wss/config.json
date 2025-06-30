@@ -4,6 +4,9 @@
       "latestCode":100,
       "forceUpdate":true
    },
+   "about":{
+      "message":"Hallow apa kabar kawan"
+   },
    "tos":{
       "url":"https://sites.google.com/view/wss-tos"
    },
