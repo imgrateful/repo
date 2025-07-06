@@ -15,8 +15,11 @@
       "url":"https://sites.google.com/view/wss-privacy"
    },
    "ads":{
-      "enableAdBanner":true,
-      "enableAdInterstitial":true,
+      "adBannerMainType":1,
+      "adBannerDetailType":1,
+      "adBannerDownloadType":1,
+      "adBannerListType":1,
+      "adInterstitialBetween":5,
       "adBannerUnitId":"ca-app-pub-3940256099942544/6300978111",
       "adInterstitialUnitId":"ca-app-pub-3940256099942544/1033173712",
       "adRewardedUnitId":"ca-app-pub-3940256099942544/5224354917",
