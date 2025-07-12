@@ -18,7 +18,7 @@
       "adBannerMainType":1,
       "adBannerDetailType":1,
       "adBannerDownloadType":1,
-      "adBannerListType":1,
+      "adBannerListType":3,
       "adInterstitialBetween":5,
       "adBannerUnitId":"ca-app-pub-3940256099942544/6300978111",
       "adInterstitialUnitId":"ca-app-pub-3940256099942544/1033173712",
