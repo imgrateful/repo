@@ -15,7 +15,7 @@
       "url":"https://sites.google.com/view/wss-privacy"
    },
    "ads":{
-      "adBannerMainType":1,
+      "adBannerMainType":-1,
       "adBannerDetailType":1,
       "adBannerDownloadType":1,
       "adBannerListType":3,
