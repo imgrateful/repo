@@ -23,14 +23,14 @@
       "adInterstitialProgress":true,
       "adInterstitialBetween":5,
       "adBannerDetailFloating":false,
-      "adBannerUnitId":"ca-app-pub-3940256099942544/6300978111",
-      "adInterstitialUnitId":"ca-app-pub-3940256099942544/1033173712",
+      "adBannerUnitId":"ca-app-pub-8608744671703833/9033561455",
+      "adInterstitialUnitId":"ca-app-pub-8608744671703833/9767186488",
       "adRewardedUnitId":"ca-app-pub-3940256099942544/5224354917",
       "adRewardedInterstitialUnitId":"ca-app-pub-3940256099942544/5354046379"
    },
    "access":{
       "premiumUser":[
-         "af28dc0e-3784-4fba-b057-3bdb74f7777b"
+         "af28dc0e-3784-4fba-b057-3bdb74f7777b-test"
       ],
       "blockedUser":[
          "af28dc0e-3784-4fba-b057-3bdb74f7777b-test"
