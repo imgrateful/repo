@@ -20,7 +20,7 @@
       "adBannerDownloadType":1,
       "adBannerListType":3,
       "adBannerBetween":7,
-      "adInterstitialProgress":false,
+      "adInterstitialProgress":true,
       "adInterstitialBetween":5,
       "adBannerDetailFloating":false,
       "adBannerUnitId":"ca-app-pub-3940256099942544/6300978111",
