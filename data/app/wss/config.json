@@ -21,7 +21,7 @@
       "adBannerListType":3,
       "adBannerBetween":7,
       "adInterstitialBetween":7,
-      "adInterstitialProgress":true,
+      "adInterstitialProgress":false,
       "adBannerDetailFloating":false,
       "adBannerUnitId":"ca-app-pub-8608744671703833/9033561455",
       "adInterstitialUnitId":"ca-app-pub-8608744671703833/9767186488",
