@@ -16,9 +16,9 @@
    },
    "ads":{
       "adBannerMainType":-1,
-      "adBannerDetailType":1,
+      "adBannerDetailType":-1,
       "adBannerDownloadType":-1,
-      "adBannerListType":3,
+      "adBannerListType":-3,
       "adBannerBetween":7,
       "adInterstitialBetween":7,
       "adInterstitialProgress":false,
